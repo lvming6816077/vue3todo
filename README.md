@@ -1,21 +1,24 @@
-# Vue.js 3.0¿ª·¢µÄtodolistÏîÄ¿
+# Vue.js 3.0å¼€å‘çš„todolisté¡¹ç›®
 
-## Project setup
+## é¡¹ç›®ä¾èµ–å®‰è£…
 ```
 npm install
 ```
 
-### ¿ª·¢Ä£Ê½Æô¶¯
+### å¼€å‘æ¨¡å¼å¯åŠ¨
 ```
 npm run serve
 ```
 
-### Éú²úÄ£Ê½Æô¶¯
+### ç”Ÿäº§æ¨¡å¼å¯åŠ¨
 ```
 npm run build
 ```
 
-### ÏàÍ¬¹¦ÄÜVue.js 2.6°æ±¾todolist
+### ç›¸åŒåŠŸèƒ½Vue.js 2.6ç‰ˆæœ¬todolist
 
-[Á´½Ó](https://github.com/lvming6816077/vue-todo)
+[é“¾æ¥](https://github.com/lvming6816077/vue-todo)
+
+
+ç›¸å…³åšæ–‡[åœ°å€](https://juejin.im/post/5eccbb9a5188254344767bb2)
 
