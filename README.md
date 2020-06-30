@@ -15,10 +15,8 @@ npm run serve
 npm run build
 ```
 
-### 相同功能Vue.js 2.6版本todolist
-
-[链接](https://github.com/lvming6816077/vue-todo)
+### 相同功能Vue.js 2.6版本todolist[传送门](https://github.com/lvming6816077/vue-todo)
 
 
-相关博文[地址](https://juejin.im/post/5eccbb9a5188254344767bb2)
+相关博文地址[传送门](https://juejin.im/post/5eccbb9a5188254344767bb2)
 
